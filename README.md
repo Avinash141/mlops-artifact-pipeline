@@ -158,7 +158,3 @@ The test suite includes:
 - ✅ **Performance Monitoring**: Accuracy and F1-score tracking
 - ✅ **Code Modularity**: Clean separation of concerns
 - ✅ **Reproducibility**: Consistent results with fixed random seeds
-
-## Authors
-- Shubham Bagwari: p22cs201@iitj.ac.in
-- Divyaansh Mertia: m23cse013@iitj.ac.in
